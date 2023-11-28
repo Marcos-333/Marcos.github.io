@@ -1,0 +1,35 @@
+html {
+    background-color: #00539f;
+    font-size: 10px; /*px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    font-family: "Lato.zip", sans-serif; /*Este deve ser o nome da fonte que vc obteve
+    no Google Fonts*/ 
+}
+body {
+    width: 700px;
+    margin:0 auto;
+    background-color: #48ff00;
+    padding: 0 2px 20px 20px;
+    border: 5px solid black;
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size:16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+h1 {
+    margin: 0;
+    padding: 20px o;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+}
+img { 
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
